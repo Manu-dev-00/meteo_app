@@ -10,7 +10,6 @@ Elle fournit des données météorologiques en temps réel pour n'importe quelle
 avec 6 modules fonctionnels et une interface moderne en thème sombre.
 
 [Fonctionnalités](#-fonctionnalités) •
-[Screenshots](#-screenshots) •
 [Installation](#-installation) •
 [Technologies](#-technologies-utilisées) •
 [APIs](#-apis-intégrées) •
