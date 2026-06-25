@@ -7,7 +7,7 @@
 ### Application Météo Mobile — Flutter
 **MeteoMobile** est une application météo mobile complète développée en Flutter.  
 Elle fournit des données météorologiques en temps réel pour n'importe quelle ville du monde,  
-avec 6 modules fonctionnels et une interface moderne en thème sombre.
+avec 5 modules fonctionnels et une interface moderne en thème sombre.
 
 [Fonctionnalités](#-fonctionnalités) •
 [Installation](#-installation) •
